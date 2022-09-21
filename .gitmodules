@@ -1,0 +1,9 @@
+[submodule "tool_db_sch"]
+	path = tool_db_sch
+	url = git@github.com:acidpuzzle/tool_db_sch.git
+[submodule "tool_ssh"]
+	path = tool_ssh
+	url = git@github.com:acidpuzzle/tool_ssh.git
+[submodule "lab_tfsm"]
+	path = lab_tfsm
+	url = git@github.com:acidpuzzle/lab_tfsm.git
